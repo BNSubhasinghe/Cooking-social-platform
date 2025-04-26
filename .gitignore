@@ -1,33 +1,12 @@
-# Ignore node_modules folder
-node_modules/
-
-# Ignore log files
-*.log
-logs/
-
-# Ignore environment variables
-.env
-
-# Ignore build outputs
-dist/
-build/
-
-# Ignore system files
-.DS_Store
-Thumbs.db
-
-# Ignore IDE specific files
 .vscode/
-.idea/
 
-# Ignore temporary files
-*.tmp
-*.swp
-*.bak
 
-# Ignore coverage reports
-coverage/
+config.bat
 
-# Ignore package lock files
-package-lock.json
-yarn.lock
+
+temp_auto_push.bat
+
+
+temp_interactive_push.bat
+
+node_modules
