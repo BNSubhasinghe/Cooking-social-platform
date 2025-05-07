@@ -6,7 +6,6 @@ node_modules/
 logs/
 
 # Ignore environment variables
-.env
 
 # Ignore build outputs
 dist/
@@ -31,3 +30,4 @@ coverage/
 # Ignore package lock files
 package-lock.json
 yarn.lock
+config.bat
